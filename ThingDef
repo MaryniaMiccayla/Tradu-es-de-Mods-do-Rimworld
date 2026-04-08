@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <sbz_TwoTierDisplayShelf.label>Prateleira de Exposição de Dois Andares</sbz_TwoTierDisplayShelf.label>
+    <sbz_TwoTierDisplayShelf.description>Uma prateleira de dois andares capaz de armazenar até 12 itens diferentes.</sbz_TwoTierDisplayShelf.description>
+
+    <sbz_DisplayShelf.label>Meia Prateleira</sbz_DisplayShelf.label>
+    <sbz_DisplayShelf.description>Uma prateleira de um andar capaz de armazenar até 6 itens diferentes.</sbz_DisplayShelf.description>
+
+    <sbz_SmallDisplayShelf.label>Meia Prateleira Pequena</sbz_SmallDisplayShelf.label>
+    <sbz_SmallDisplayShelf.description>Uma prateleira menor de um andar capaz de armazenar até 3 itens diferentes.</sbz_SmallDisplayShelf.description>
+
+    <sbz_TallDisplayShelf.label>Nicho de Armazenamento</sbz_TallDisplayShelf.label>
+    <sbz_TallDisplayShelf.description>Um armário sem porta para empilhar até 12 itens diferentes.</sbz_TallDisplayShelf.description>
+
+    <sbz_NarrowTallDisplayShelf.label>Nicho de Armazenamento Estreito</sbz_NarrowTallDisplayShelf.label>
+    <sbz_NarrowTallDisplayShelf.description>Um armário sem porta mais estreito para empilhar até 6 itens diferentes.</sbz_NarrowTallDisplayShelf.description>
+
+    <sbz_HangerShelf.label>Cabideiro Pequeno</sbz_HangerShelf.label>
+    <sbz_HangerShelf.description>Um cabideiro menor capaz de armazenar até 4 roupas ou armaduras.</sbz_HangerShelf.description>
+
+    <sbz_WideHangerShelf.label>Cabideiro</sbz_WideHangerShelf.label>
+    <sbz_WideHangerShelf.description>Um cabideiro capaz de armazenar até 8 roupas ou armaduras.</sbz_WideHangerShelf.description>
+
+    <sbz_DisplayCabinet.label>Armário Vitrine</sbz_DisplayCabinet.label>
+    <sbz_DisplayCabinet.description>Um armário vitrine com a parte superior envidraçada, capaz de armazenar até 8 itens diferentes.</sbz_DisplayCabinet.description>
+
+    <sbz_NarrowDisplayCabinet.label>Armário Vitrine Pequeno</sbz_NarrowDisplayCabinet.label>
+    <sbz_NarrowDisplayCabinet.description>Um armário vitrine menor com a parte superior envidraçada, capaz de armazenar até 4 itens diferentes.</sbz_NarrowDisplayCabinet.description>
+
+    <sbz_OpenShelf.label>Prateleira Aberta</sbz_OpenShelf.label>
+    <sbz_OpenShelf.description>Uma prateleira de dois andares com o topo aberto, capaz de armazenar até 12 itens diferentes.</sbz_OpenShelf.description>
+
+    <sbz_HorizontalWeaponRack.label>Rack de Armas Horizontal</sbz_HorizontalWeaponRack.label>
+    <sbz_HorizontalWeaponRack.description>Um rack de armas para pendurar até 12 armas na horizontal.</sbz_HorizontalWeaponRack.description>
+
+    <sbz_VerticalWeaponRack.label>Rack de Armas Vertical</sbz_VerticalWeaponRack.label>
+    <sbz_VerticalWeaponRack.description>Um rack de armas para pendurar até 12 armas na vertical.</sbz_VerticalWeaponRack.description>
+
+    <sbz_Crate.label>Caixote Grande</sbz_Crate.label>
+    <sbz_Crate.description>Um caixote grande capaz de armazenar até 24 itens diferentes.</sbz_Crate.description>
+
+    <sbz_SmallCrate.label>Caixote Pequeno</sbz_SmallCrate.label>
+    <sbz_SmallCrate.description>Um caixote pequeno capaz de armazenar até 6 itens diferentes.</sbz_SmallCrate.description>
+
+    <sbz_MidCrate.label>Caixote</sbz_MidCrate.label>
+    <sbz_MidCrate.description>Um caixote capaz de armazenar até 12 itens diferentes.</sbz_MidCrate.description>
+
+    <sbz_CorpseSpot.label>Vala Comum</sbz_CorpseSpot.label>
+    <sbz_CorpseSpot.description>Uma vala comum para empilhar até 12 cadáveres ou carcaças.</sbz_CorpseSpot.description>
+
+    <sbz_DisplayTable.label>Pedestal de Exposição</sbz_DisplayTable.label>
+    <sbz_DisplayTable.description>Um pedestal de exposição para exibir e destacar um único item.</sbz_DisplayTable.description>
+
+    <sbz_Pallet.label>Palete</sbz_Pallet.label>
+    <sbz_Pallet.description>Um palete capaz de armazenar até 24 itens diferentes.</sbz_Pallet.description>
+
+    <sbz_MeatHook.label>Gancho de Carne</sbz_MeatHook.label>
+    <sbz_MeatHook.description>Um gancho para pendurar até 12 cadáveres ou pedaços de carne.</sbz_MeatHook.description>
+
+    <sbz_TextileRack.label>Rack de Tecidos</sbz_TextileRack.label>
+    <sbz_TextileRack.description>Um rack para pendurar até 6 tipos de tecidos e couro.</sbz_TextileRack.description>
+
+    <sbz_DisplayTable.label>Vitrine de Exposição</sbz_DisplayTable.label>
+    <sbz_DisplayTable.description>Uma vitrine de exposição para apresentar um único item.</sbz_DisplayTable.description>
+
+    <sbz_WeaponRack.label>Rack de Armas</sbz_WeaponRack.label>
+    <sbz_WeaponRack.description>Um rack para expor até 6 armas.</sbz_WeaponRack.description>
+
+    <sbz_MiniPallet.label>Minipalete</sbz_MiniPallet.label>
+    <sbz_MiniPallet.description>Um palete pequeno capaz de armazenar até 6 itens diferentes.</sbz_MiniPallet.description>
+</LanguageData>
